@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "WakeBuddy",
+    "slug": "wakebuddy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wakebuddy.app"
+    },
+    "android": {
+      "package": "com.wakebuddy.app"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
